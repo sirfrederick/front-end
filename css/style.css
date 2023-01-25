@@ -1,0 +1,29 @@
+* {
+    box-sizing: border-box;
+    color: rgb(209, 114, 114);
+}
+@media only screen and (max-width:600px){
+body{
+    background-color: darkslategray;
+}    
+}
+h1,h2{
+    color: rgb(46, 46, 98);
+    width: 300px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border: 2px solid mediumorchid;
+}
+
+.color {
+    color: rgb(35, 100, 109)
+}
+
+div p {
+    color: deeppink;
+    font-size: 17px;
+    font-family: 'Montserrat',
+        sans-serif;
+}
